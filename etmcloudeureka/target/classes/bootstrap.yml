@@ -1,0 +1,37 @@
+server:
+  port: 8082
+
+spring:
+  profiles: eur1
+  application:
+    name: etmcloudeureka
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8083/eureka/
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    hostname: 127.0.0.1
+
+---
+
+server:
+  port: 8083
+
+spring:
+  profiles: eur2
+  application:
+    name: etmcloudeureka
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:8082/eureka/
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    hostname: 127.0.0.1
+
+

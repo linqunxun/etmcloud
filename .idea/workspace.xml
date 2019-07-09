@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05107382-2a88-47b9-ae5d-df0dab83c789" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudconfig/target/" />
+    <ignored path="$PROJECT_DIR$/helloworld/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudeureka/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudeureka-replicas-1/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudeureka-replicas-2/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudorder/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudclient/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudzuul/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudgateway/target/" />
+    <ignored path="$PROJECT_DIR$/etmcloudzipkin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/helloworld/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/etmcloudeureka/src/main/java/com/etmcn/etmcloudeureka/EtmcloudeurekaApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudeureka-replicas-2/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/etmcloudeureka-replicas-1/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudeureka-replicas-2/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudorder/src/main/java/com/etmcn/etmcloudeureka/ETMCloudEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudorder/src/main/java/com/etmcn/etmcloudeureka/ETMCloudOrderApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudorder/src/main/java/ETMCloudOrderApplication.java" />
+        <option value="$USER_HOME$/maven/repository/com/etmcn/etmcloud-parent/1.0-SNAPSHOT/etmcloud-parent-1.0-SNAPSHOT.pom" />
+        <option value="$PROJECT_DIR$/etmcloudeureka/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/ETMCloudOrderApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudeureka/src/main/java/com/etmcn/etmcloudeureka/ETMCloudEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudorder/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudeureka-replicas-1/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/etmcloudeureka-replicas-1/src/main/java/com/etmcn/etmcloudeureka/ETMCloudEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/ETMCloudClientApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudorder/src/main/java/com/etmcn/etmcloud/ETMCloudOrderApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudeureka/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/TestController.java" />
+        <option value="$PROJECT_DIR$/etmcloudorder/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/etmcloudorder/src/main/java/com/etmcn/etmcloud/OrderController.java" />
+        <option value="$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/OrderService.java" />
+        <option value="$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/OrderServiceHystrix.java" />
+        <option value="$PROJECT_DIR$/etmcloudclient/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/helloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudconfig/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/etmcloudzuul/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudzuul/src/main/java/com/etmcn/etmcloud/ETMCloudOrderApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudzuul/src/main/java/com/etmcn/etmcloud/ETMCloudZuulApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudzuul/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/OrderController.java" />
+        <option value="$PROJECT_DIR$/etmcloudgateway/src/main/java/com/etmcn/etmcloud/ETMCloudZuulApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudgateway/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudgateway/src/main/java/com/etmcn/etmcloud/ETMCloudGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/etmcloudgateway/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/etmcloudclient/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudzipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/etmcloudzipkin/src/main/java/com/etmcn/etmcloud/OrderController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/maven/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="etmcloudconfig" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="etmcloudconfig" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="etmcloudconfig" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="docker" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="helloworld" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="55" />
+    <option name="width" value="1440" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="etmcloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etmcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etmcloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etmcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="etmcloudzipkin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etmcloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etmcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="etmcloudzipkin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etmcloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etmcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="etmcloudzipkin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etmcloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etmcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="etmcloudzipkin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="etmcloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="etmcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="etmcloudzipkin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562651663244" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/etmcloudconfig/src/main" />
+      <recent name="$PROJECT_DIR$/etmcloudeureka/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ETMCloudGatewayApplication">
+    <configuration name="ETMCloudClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="etmcloudclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.etmcn.etmcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloud.ETMCloudClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etmcloudconfig" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloud.ETMCloudConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudEurekaApplication-eur1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etmcloudeureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloudeureka.ETMCloudEurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=eur1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudEurekaApplication-eur2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etmcloudeureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloudeureka.ETMCloudEurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=eur2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="etmcloudeureka-replicas-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.etmcn.etmcloudeureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloudeureka.ETMCloudEurekaApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=eur2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etmcloudgateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloud.ETMCloudGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudOrderApplication-r1" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etmcloudorder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloud.ETMCloudOrderApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=r1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudOrderApplication-r2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etmcloudorder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloud.ETMCloudOrderApplication" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=r2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ETMCloudZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="etmcloudzuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.etmcloud.ETMCloudZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.etmcn.HelloWorldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="etmcloudconfig" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="command" value="" />
+          <option name="containerName" value="etmcloudconfig" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="etmcloud/etmcloudconfig:latest" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="8081" />
+                <option name="hostPort" value="8081" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="volumeBindings">
+            <list>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/tmp" />
+                <option name="hostPath" value="$USER_HOME$/docker-data/etmcloud/tmp" />
+              </DockerVolumeBindingImpl>
+            </list>
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.etmcloudconfig" />
+      <item itemvalue="Spring Boot.ETMCloudConfigApplication" />
+      <item itemvalue="Spring Boot.ETMCloudEurekaApplication-eur1" />
+      <item itemvalue="Spring Boot.ETMCloudEurekaApplication-eur2" />
+      <item itemvalue="Spring Boot.HelloWorldApplication" />
+      <item itemvalue="Spring Boot.ETMCloudOrderApplication-r1" />
+      <item itemvalue="Spring Boot.ETMCloudOrderApplication-r2" />
+      <item itemvalue="Spring Boot.ETMCloudZuulApplication" />
+      <item itemvalue="Spring Boot.ETMCloudGatewayApplication" />
+      <item itemvalue="Spring Boot.ETMCloudEurekaApplication" />
+      <item itemvalue="Spring Boot.ETMCloudClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ETMCloudClientApplication" />
+        <item itemvalue="Docker.etmcloudconfig" />
+        <item itemvalue="Spring Boot.ETMCloudEurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05107382-2a88-47b9-ae5d-df0dab83c789" name="Default Changelist" comment="" />
+      <created>1562223189561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562223189561</updated>
+      <workItem from="1562223190746" duration="1960000" />
+      <workItem from="1562225903543" duration="28000" />
+      <workItem from="1562226052189" duration="49000" />
+      <workItem from="1562226138179" duration="6000" />
+      <workItem from="1562226335927" duration="201000" />
+      <workItem from="1562226550259" duration="7808000" />
+      <workItem from="1562236184806" duration="691000" />
+      <workItem from="1562236914632" duration="79000" />
+      <workItem from="1562237174071" duration="26921000" />
+      <workItem from="1562580295418" duration="794000" />
+      <workItem from="1562635674688" duration="1502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="com_etmcn_etmcloudeureka_in_etmcloudeureka-replicas-1 - 2019.07.04 at 17h 29m 46s.xml">
+      <configuration name="com.etmcn.etmcloudeureka in etmcloudeureka-replicas-1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40039000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33493975" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32891566" />
+      <window_info anchor="bottom" id="Problems" order="13" weight="0.32891566" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33493975" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/etmcncloud.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/helloworld.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1033" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka-replicas-2/src/main/java/com/etmcn/etmcloudeureka/ETMCloudEurekaApplication.java" />
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka-replicas-2/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka-replicas-2/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/etmcloudorder/src/main/java/ETMCloudOrderApplication.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/maven/repository/org/springframework/cloud/spring-cloud-starter-netflix-eureka-server/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-server-2.1.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/maven/repository/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/maven/repository/org/springframework/boot/spring-boot-starter-test/2.1.6.RELEASE/spring-boot-starter-test-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.1.RELEASE/spring-cloud-openfeign-core-2.1.1.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven/repository/org/springframework/cloud/spring-cloud-openfeign-core/2.1.1.RELEASE/spring-cloud-openfeign-core-2.1.1.RELEASE-sources.jar!/org/springframework/cloud/openfeign/FeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka-replicas-1/pom.xml" />
+    <entry file="jar://$USER_HOME$/maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaClientConfigBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="435" column="16" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="16" />
+          <folding>
+            <element signature="e#14619#14620#0" expanded="true" />
+            <element signature="e#14679#14680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/maven/repository/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka-replicas-1/src/main/java/com/etmcn/etmcloudeureka/ETMCloudEurekaApplication.java" />
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka-replicas-1/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka/src/main/java/com/etmcn/etmcloudeureka/ETMCloudEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudeureka/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/maven/repository/org/springframework/boot/spring-boot-starter-parent/2.1.6.RELEASE/spring-boot-starter-parent-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1540" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/maven/repository/com/etmcn/etmcloud-parent/1.0-SNAPSHOT/etmcloud-parent-1.0-SNAPSHOT.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/OrderServiceHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" selection-end-line="3" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudconfig/src/test/java/com/etmcn/springconfig/SpringconfigApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/helloworld/src/main/java/com/etmcn/HelloWorldApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudconfig/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloworld/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudconfig/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudconfig/src/main/java/com/etmcn/etmcloud/ETMCloudConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudzuul/src/main/java/com/etmcn/etmcloud/OrderController.java" />
+    <entry file="file://$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/ETMCloudClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudzuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudzuul/src/main/java/com/etmcn/etmcloud/ETMCloudZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudclient/src/main/java/com/etmcn/etmcloud/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudconfig/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudzuul/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudclient/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudgateway/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudgateway/src/main/java/com/etmcn/etmcloud/ETMCloudGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudgateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudorder/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudorder/src/main/java/com/etmcn/etmcloud/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudorder/src/main/java/com/etmcn/etmcloud/ETMCloudOrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudorder/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudzipkin/src/main/java/com/etmcn/etmcloud/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etmcloudzipkin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>helloworld</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
