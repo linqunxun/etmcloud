@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/etmcloudclient/etmcloudclient.iml" filepath="$PROJECT_DIR$/etmcloudclient/etmcloudclient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/etmcloudconfig/etmcloudconfig.iml" filepath="$PROJECT_DIR$/etmcloudconfig/etmcloudconfig.iml" />
-      <module fileurl="file://$PROJECT_DIR$/etmcloudeureka/etmcloudeureka.iml" filepath="$PROJECT_DIR$/etmcloudeureka/etmcloudeureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/etmcloudgateway/etmcloudgateway.iml" filepath="$PROJECT_DIR$/etmcloudgateway/etmcloudgateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/etmcloudorder/etmcloudorder.iml" filepath="$PROJECT_DIR$/etmcloudorder/etmcloudorder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/etmcloudzuul/etmcloudzuul.iml" filepath="$PROJECT_DIR$/etmcloudzuul/etmcloudzuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etmcloud-config/etmcloud-config.iml" filepath="$PROJECT_DIR$/etmcloud-config/etmcloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etmcloud-eureka/etmcloud-eureka.iml" filepath="$PROJECT_DIR$/etmcloud-eureka/etmcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etmcloud-inventory/etmcloud-inventory.iml" filepath="$PROJECT_DIR$/etmcloud-inventory/etmcloud-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etmcloud-order/etmcloud-order.iml" filepath="$PROJECT_DIR$/etmcloud-order/etmcloud-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etmcloud-zuul/etmcloud-zuul.iml" filepath="$PROJECT_DIR$/etmcloud-zuul/etmcloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etmcloud-config/etmcloudconfig.iml" filepath="$PROJECT_DIR$/etmcloud-config/etmcloudconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etmcloud-inventory/etmcloudorder.iml" filepath="$PROJECT_DIR$/etmcloud-inventory/etmcloudorder.iml" />
       <module fileurl="file://$PROJECT_DIR$/etmcncloud.iml" filepath="$PROJECT_DIR$/etmcncloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
     </modules>
   </component>
 </project>

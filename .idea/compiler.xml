@@ -6,42 +6,46 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="etmcloudclient" />
+        <module name="etmcloud-config" />
+        <module name="etmcloud-eureka" />
+        <module name="etmcloud-inventory" />
+        <module name="etmcloud-order" />
+        <module name="etmcloud-zuul" />
         <module name="etmcloudconfig" />
-        <module name="etmcloudeureka" />
-        <module name="etmcloudgateway" />
         <module name="etmcloudorder" />
-        <module name="etmcloudzuul" />
         <module name="etmcncloud" />
-        <module name="helloworld" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="etmcloud" target="1.8" />
-      <module name="etmcloudclient" target="1.8" />
+      <module name="etmcloud-config" target="1.8" />
+      <module name="etmcloud-eureka" target="1.8" />
+      <module name="etmcloud-gateway" target="1.8" />
+      <module name="etmcloud-inventory" target="1.8" />
+      <module name="etmcloud-order" target="1.8" />
+      <module name="etmcloud-zuul" target="1.8" />
       <module name="etmcloudconfig" target="1.8" />
-      <module name="etmcloudeureka" target="1.8" />
       <module name="etmcloudeureka-replicas-1" target="1.8" />
       <module name="etmcloudeureka-replicas-2" target="1.8" />
-      <module name="etmcloudgateway" target="1.8" />
       <module name="etmcloudorder" target="1.8" />
       <module name="etmcloudzipkin" target="1.8" />
-      <module name="etmcloudzuul" target="1.8" />
       <module name="etmcncloud" target="1.8" />
       <module name="helloworld" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="etmcloudclient" options="-parameters" />
+      <module name="etmcloud-config" options="-parameters" />
+      <module name="etmcloud-eureka" options="-parameters" />
+      <module name="etmcloud-gateway" options="-parameters" />
+      <module name="etmcloud-inventory" options="-parameters" />
+      <module name="etmcloud-order" options="-parameters" />
+      <module name="etmcloud-zuul" options="-parameters" />
       <module name="etmcloudconfig" options="-parameters" />
-      <module name="etmcloudeureka" options="-parameters" />
       <module name="etmcloudeureka-replicas-1" options="-parameters" />
       <module name="etmcloudeureka-replicas-2" options="-parameters" />
-      <module name="etmcloudgateway" options="-parameters" />
       <module name="etmcloudorder" options="-parameters" />
       <module name="etmcloudzipkin" options="-parameters" />
-      <module name="etmcloudzuul" options="-parameters" />
       <module name="etmcncloud" options="-parameters" />
       <module name="helloworld" options="-parameters" />
     </option>
