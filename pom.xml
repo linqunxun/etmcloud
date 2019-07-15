@@ -16,12 +16,12 @@
 
 	<modules>
 		<module>helloworld</module>
-		<module>etmcloudconfig</module>
-		<module>etmcloudeureka</module>
-		<module>etmcloudorder</module>
-		<module>etmcloudclient</module>
-		<module>etmcloudzuul</module>
-		<module>etmcloudgateway</module>
+		<module>etmcloud-config</module>
+		<module>etmcloud-eureka</module>
+		<module>etmcloud-zuul</module>
+		<module>etmcloud-gateway</module>
+		<module>etmcloud-order</module>
+		<module>etmcloud-inventory</module>
 	</modules>
 
 	<properties>
