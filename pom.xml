@@ -15,11 +15,9 @@
 	<description>etmcncloud project for Spring Boot</description>
 
 	<modules>
-		<module>helloworld</module>
 		<module>etmcloud-config</module>
 		<module>etmcloud-eureka</module>
 		<module>etmcloud-zuul</module>
-		<module>etmcloud-gateway</module>
 		<module>etmcloud-order</module>
 		<module>etmcloud-inventory</module>
 	</modules>
